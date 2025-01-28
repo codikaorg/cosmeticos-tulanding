@@ -3,6 +3,7 @@ import DeliCombos from "@/components/DeliCombos";
 import Benefits from "@/components/Benefits";
 import Location from "@/components/Location";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -11,6 +12,7 @@ const Index = () => {
       <DeliCombos />
       <Benefits />
       <Location />
+      <Footer />
       <WhatsAppButton />
     </div>
   );
