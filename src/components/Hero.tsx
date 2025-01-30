@@ -6,8 +6,8 @@ const Hero = () => {
       <div
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: "linear-gradient(to right, #e6b980 0%, #eacda3 100%)",
-          opacity: 0.1,
+          backgroundImage: "url('/images/minimarket-guarenas.jpg')",
+          opacity: 0.5,
         }}
       />
       <div className="container mx-auto px-4 z-10">
@@ -15,7 +15,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl font-bold text-market-dark">
             El Buen Sabor de Guarenas
           </h1>
-          <p className="text-xl md:text-2xl text-gray-700 max-w-2xl mx-auto">
+          <p className="text-xl md:text-2xl font-semibold text-gray-800 max-w-2xl mx-auto">
             Los mejores combos de charcutería y productos frescos para tu hogar,
             ¡con la calidad que mereces!
           </p>
@@ -25,7 +25,7 @@ const Hero = () => {
               className="bg-market-primary hover:bg-market-dark text-white"
               onClick={() => document.getElementById("combos")?.scrollIntoView({ behavior: "smooth" })}
             >
-              Ver Combos de Charcutería
+              Ver Combos y Productos
             </Button>
             <Button
               size="lg"

@@ -6,23 +6,44 @@ const combos = [
     id: 1,
     name: "Combo Familiar",
     description: "500g de Jamón + 500g de Queso + 250g de Mortadela",
-    price: "$XX.XX",
-    image: "/placeholder.svg",
+    price: "$15.00",
+    image: "images/combo-familiar.jpg",
   },
   {
     id: 2,
     name: "Combo Especial",
     description: "300g de Jamón Serrano + 300g de Queso Manchego + 200g de Salami",
-    price: "$XX.XX",
-    image: "/placeholder.svg",
+    price: "$15.00",
+    image: "/images/combo-embutidos.jpg",
   },
   {
     id: 3,
-    name: "Combo Básico",
-    description: "250g de Jamón + 250g de Queso + 200g de Mortadela",
-    price: "$XX.XX",
-    image: "/placeholder.svg",
+    name: "Jamòn de Espalda",
+    description: "2kg de Jamón",
+    price: "$60.00",
+    image: "/images/jamon-de-espalda.jpg",
   },
+   {
+    id: 4,
+    name: "Queso Guayanes",
+    description: "1Kg de Queso Guayanes",
+    price: "$8.00",
+    image: "images/queso-guayanes.jpg",
+  },
+  {
+    id: 5,
+    name: "Harina Pan Integral",
+    description: "Bulto de 1Kg de Harina Pan Integral 20 unidades",
+    price: "$40.00",
+    image: "/images/harina-pan-integral.jpg",
+  },
+  {
+    id: 6,
+    name: "Combo Hallaquitas",
+    description: "20 Hallaquitas",
+    price: "$10.00",
+    image: "/images/3-hallaquitas.jpg",
+  }
 ];
 
 const DeliCombos = () => {
@@ -31,7 +52,7 @@ const DeliCombos = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-market-dark mb-4">
-            Nuestros Combos de Charcutería
+            Nuestros Combos y Productos
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
             Descubre nuestras deliciosas combinaciones preparadas con los mejores
@@ -57,7 +78,7 @@ const DeliCombos = () => {
                   </span>
                   <Button
                     className="bg-market-secondary hover:bg-market-primary text-white"
-                    onClick={() => window.open("https://wa.me/+XXXXXXXXXXX", "_blank")}
+                    onClick={() => window.open("https://wa.me/+584129805193", "_blank")}
                   >
                     Pedir por WhatsApp
                   </Button>

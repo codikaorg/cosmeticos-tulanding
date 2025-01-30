@@ -14,7 +14,7 @@ const WhatsAppCTA = () => {
         <Button
           className="bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-full text-lg shadow-lg flex items-center gap-2 mx-auto"
           onClick={() =>
-            window.open("https://wa.me/584129805193", "_blank")
+            window.open("https://wa.me/+584241722907", "_blank")
           }
         >
           <MessageCircle className="w-6 h-6" />
