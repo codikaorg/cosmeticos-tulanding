@@ -40,9 +40,12 @@ const Location = () => {
             </div>
             <div className="h-[300px] md:h-full min-h-[300px] bg-gray-200 rounded-lg">
               {/* Replace with actual Google Maps embed */}
-              <div className="w-full h-full flex items-center justify-center text-gray-500">
-                Mapa de Google
-              </div>
+              <iframe title="Open Map"
+                width="100%"
+                height="100%"
+                frameBorder="0"
+                src="https://www.openstreetmap.org/export/embed.html?bbox=-66.5958%2C10.469%2C-66.5937%2C10.471&layer=mapnik&marker=10.470004%2C-66.594733"
+                ></iframe>
             </div>
           </div>
         </div>
