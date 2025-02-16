@@ -21,9 +21,9 @@ const Location = () => {
                 <p>
                   <strong>Dirección:</strong>
                   <br />
-                  Ruiz Pineda, Local c-6
+                  C.C. Buenaventura, Local 05
                   <br />
-                  Guarenas, Miranda, Venezuela
+                  Guatire, Miranda, Venezuela
                 </p>
                 <p>
                   <strong>Horario:</strong>
@@ -35,7 +35,7 @@ const Location = () => {
                 <p>
                   <strong>Teléfono:</strong>
                   <br />
-                  +58 424-1722907
+                  +58 414 9128586
                 </p>
               </div>
             </div>

@@ -5,7 +5,7 @@ const WhatsAppButton = () => {
   return (
     <Button
       className="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white rounded-full p-4 shadow-lg z-50"
-      onClick={() => window.open("https://wa.me/+5841419128586", "_blank")}
+      onClick={() => window.open("https://wa.me/+584149128586", "_blank")}
     >
       <MessageCircle className="w-6 h-6" />
     </Button>
