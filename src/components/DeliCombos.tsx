@@ -46,7 +46,7 @@ const DeliCombos = () => {
                 <img
                   src={product.image}
                   alt={product.name}
-                  className="w-full h-54 object-cover rounded-t-lgb bg-gray-200"
+                  className="w-full h-54 object-cover rounded-t-lgb bg-gray-100"
                 />
               </CardHeader>
               <CardContent className="p-6">
