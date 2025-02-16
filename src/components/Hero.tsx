@@ -38,7 +38,7 @@ const Hero = () => {
           <div className="order-first md:order-last">
             <div className="relative h-[300px] md:h-[500px] rounded-lg overflow-hidden">
               <img
-                src="/images/minimarket-guarenas.jpg"
+                src="/images/portada-landing-cosmeticos.jpg"
                 alt="Beauty Cloud Cosmetics"
                 className="w-full h-full object-cover rounded-lg"
                 style={{
