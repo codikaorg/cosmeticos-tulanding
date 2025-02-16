@@ -1,3 +1,4 @@
+
 import WhatsAppCTA from "./WhatsAppCTA";
 
 const Location = () => {
@@ -10,7 +11,7 @@ const Location = () => {
               Visítanos en Guarenas
             </h2>
             <p className="text-gray-600">
-              Estamos ubicados en una zona céntrica y accesible
+              Tu destino de belleza en una ubicación céntrica y accesible
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -20,26 +21,25 @@ const Location = () => {
                 <p>
                   <strong>Dirección:</strong>
                   <br />
-                  Av. Principal de Guarenas #123
+                  Ruiz Pineda, Local c-6
                   <br />
                   Guarenas, Miranda, Venezuela
                 </p>
                 <p>
                   <strong>Horario:</strong>
                   <br />
-                  Lunes a Sábado: 8:00 AM - 8:00 PM
+                  Lunes a Sábado: 9:00 AM - 7:00 PM
                   <br />
-                  Domingo: 8:00 AM - 2:00 PM
+                  Domingo: Cerrado
                 </p>
                 <p>
                   <strong>Teléfono:</strong>
                   <br />
-                  +58 412-9805193
+                  +58 424-1722907
                 </p>
               </div>
             </div>
             <div className="h-[300px] md:h-full min-h-[300px] bg-gray-200 rounded-lg">
-              {/* Replace with actual Google Maps embed */}
               <iframe title="Open Map"
                 width="100%"
                 height="100%"

@@ -1,21 +1,22 @@
+
 import { CheckCircle } from "lucide-react";
 
 const benefits = [
   {
-    title: "Productos Frescos",
-    description: "Calidad garantizada en todos nuestros productos",
+    title: "Productos Premium",
+    description: "Marcas exclusivas de alta calidad",
   },
   {
-    title: "Mejores Precios",
-    description: "Ofertas competitivas en Guarenas",
+    title: "Asesoría Experta",
+    description: "Personal especializado en belleza",
   },
   {
-    title: "Atención Personalizada",
-    description: "Personal amable y servicial",
+    title: "Productos Originales",
+    description: "Garantía de autenticidad",
   },
   {
-    title: "Ubicación Céntrica",
-    description: "Fácil acceso en Guarenas",
+    title: "Resultados Garantizados",
+    description: "Satisfacción asegurada",
   },
 ];
 

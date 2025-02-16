@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 
 const Hero = () => {
@@ -13,19 +14,19 @@ const Hero = () => {
       <div className="container mx-auto px-4 z-10">
         <div className="text-center space-y-6 animate-fade-in">
           <h1 className="text-4xl md:text-6xl font-bold text-market-dark">
-            El Buen Sabor de Guarenas
+            Beauty Cloud Cosmetics
           </h1>
           <p className="text-xl md:text-2xl font-semibold text-gray-800 max-w-2xl mx-auto">
-            Los mejores combos de charcutería y productos frescos para tu hogar,
-            ¡con la calidad que mereces!
+            Descubre tu belleza natural con nuestra exclusiva colección de productos
+            premium para el cuidado de la piel
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
               size="lg"
               className="bg-market-primary hover:bg-market-dark text-white"
-              onClick={() => document.getElementById("combos")?.scrollIntoView({ behavior: "smooth" })}
+              onClick={() => document.getElementById("products")?.scrollIntoView({ behavior: "smooth" })}
             >
-              Ver Combos y Productos
+              Ver Productos
             </Button>
             <Button
               size="lg"
