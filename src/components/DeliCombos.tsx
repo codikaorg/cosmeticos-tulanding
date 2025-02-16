@@ -38,7 +38,7 @@ const products = [
     name: "Rutina Básica",
     description: "Limpiador + Hidratante + Protector Solar",
     price: "$45.00",
-    image: "/images/set-cosmeticos-1.avif",
+    image: "/images/set-cosmeticos-2.avif",
   },
   ,
   {
@@ -46,14 +46,14 @@ const products = [
     name: "Rutina Básica",
     description: "Limpiador + Hidratante + Protector Solar",
     price: "$45.00",
-    image: "/images/set-cosmeticos-1.avif",
+    image: "/images/set-cosmeticos-3.avif",
   },
   {
     id: 7,
     name: "Set Facial Completo",
     description: "Limpiador + Tónico + Crema Hidratante + Serum",
     price: "$60.00",
-    image: "/images/combo-familiar.jpg",
+    image: "/images/set-cosmeticos-4.avif",
   },
   {
     id: 8,
