@@ -25,7 +25,7 @@ const testimonials = [
 
 const Testimonials = () => {
   return (
-    <section className="py-16 bg-market-accent">
+    <section className="py-16 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-market-dark mb-4">
@@ -39,7 +39,7 @@ const Testimonials = () => {
           {testimonials.map((testimonial, index) => (
             <Card
               key={index}
-              className="bg-white hover:shadow-lg transition-shadow duration-300"
+              className="bg-market-accent hover:shadow-lg transition-shadow duration-300"
             >
               <CardContent className="p-6 text-center space-y-4">
                 <div className="flex justify-center mb-4">
