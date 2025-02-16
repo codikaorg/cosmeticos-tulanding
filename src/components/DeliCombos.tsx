@@ -60,14 +60,14 @@ const products = [
     name: "Kit Anti-Edad Premium",
     description: "Crema Anti-arrugas + Contorno de Ojos + Serum Vitamina C",
     price: "$85.00",
-    image: "/images/combo-embutidos.jpg",
+    image: "/images/set-cosmeticos-5.avif",
   },
   {
     id: 9,
     name: "Rutina Básica",
     description: "Limpiador + Hidratante + Protector Solar",
     price: "$45.00",
-    image: "/images/set-cosmeticos-1.avif",
+    image: "/images/set-cosmeticos-6.avif",
   },
   ,
   {
@@ -75,7 +75,7 @@ const products = [
     name: "Rutina Básica",
     description: "Limpiador + Hidratante + Protector Solar",
     price: "$45.00",
-    image: "/images/set-cosmeticos-1.avif",
+    image: "/images/set-cosmeticos-7.avif",
   },
   ,
   {
