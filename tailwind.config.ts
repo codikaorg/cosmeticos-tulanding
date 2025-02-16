@@ -26,11 +26,11 @@ export default {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         market: {
-          primary: "#C7A794", // Soft rosy brown
-          secondary: "#A77A6E", // Deeper brown
-          accent: "#FAF2E9", // Light beige
-          light: "#F2EAE2", // Warm beige
-          dark: "#664A40", // Dark brown
+          primary: "#fec4cb", // Soft pink (your requested primary color)
+          secondary: "#e4a6ad", // Deeper pink
+          accent: "#fff5f6", // Light pink
+          light: "#fef0f1", // Warm pink
+          dark: "#c5979b", // Dark pink
         },
         primary: {
           DEFAULT: "hsl(var(--primary))",
