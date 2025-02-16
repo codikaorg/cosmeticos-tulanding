@@ -91,7 +91,7 @@ const products = [
     name: "Rutina Básica",
     description: "Limpiador + Hidratante + Protector Solar",
     price: "$45.00",
-    image: "/images/set-cosmeticos-1.avif",
+    image: "/images/combo-cosmeticos-5.jpg",
   },
 ];
 
