@@ -4,8 +4,8 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="text-center">
           <h3 className="font-semibold text-xl mb-4">Contáctanos</h3>
-          <p className="mb-2">Ruiz Pineda, Local c-6, Guarenas</p>
-          <p className="mb-6">Teléfono: +584241722907</p>
+          <p className="mb-2">C.C. Buenaventura Local 05, Guatire</p>
+          <p className="mb-6">Teléfono: +5841419128586</p>
         </div>
       </div>
       <div className="bg-market-primary py-3 mt-8">
