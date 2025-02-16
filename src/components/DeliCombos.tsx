@@ -24,6 +24,30 @@ const products = [
     price: "$45.00",
     image: "/images/set-cosmeticos-1.avif",
   },
+  ,
+  {
+    id: 4,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
+  ,
+  {
+    id: 5,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
+  ,
+  {
+    id: 6,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
 ];
 
 const DeliCombos = () => {
