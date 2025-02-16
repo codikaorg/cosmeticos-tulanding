@@ -48,6 +48,51 @@ const products = [
     price: "$45.00",
     image: "/images/set-cosmeticos-1.avif",
   },
+  {
+    id: 7,
+    name: "Set Facial Completo",
+    description: "Limpiador + Tónico + Crema Hidratante + Serum",
+    price: "$60.00",
+    image: "/images/combo-familiar.jpg",
+  },
+  {
+    id: 8,
+    name: "Kit Anti-Edad Premium",
+    description: "Crema Anti-arrugas + Contorno de Ojos + Serum Vitamina C",
+    price: "$85.00",
+    image: "/images/combo-embutidos.jpg",
+  },
+  {
+    id: 9,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
+  ,
+  {
+    id: 10,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
+  ,
+  {
+    id: 11,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
+  ,
+  {
+    id: 12,
+    name: "Rutina Básica",
+    description: "Limpiador + Hidratante + Protector Solar",
+    price: "$45.00",
+    image: "/images/set-cosmeticos-1.avif",
+  },
 ];
 
 const DeliCombos = () => {
